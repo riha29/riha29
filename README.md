@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riha29" alt="riha29" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?riha29=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/riha29ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Machine Learning and Python**
 
