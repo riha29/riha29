@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faozia Islam Riha</h1>
-<h3 align="center">A passionate frontend developer and machine learning enthusiast</h3>
+<h3 align="center">A passionate Web developer, Python and machine learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riha29&label=Profile%20views&color=0e75b6&style=flat" alt="riha29" /> </p>
 
